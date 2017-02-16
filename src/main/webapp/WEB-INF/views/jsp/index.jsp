@@ -66,14 +66,14 @@
                 <li>
                     <a href="index.html#"><i class="fa fa-bar-chart-o"></i> <span class="nav-label">图形样式列表</span><span class="fa arrow"></span></a>
                     <ul class="nav nav-second-level collapse">
-                        <li><a href="graph_flot.html">Flot Charts</a></li>
-                        <li><a href="graph_morris.html">Morris.js Charts</a></li>
-                        <li><a href="graph_rickshaw.html">Rickshaw Charts</a></li>
-                        <li><a href="graph_chartjs.html">Chart.js</a></li>
-                        <li><a href="graph_chartist.html">Chartist</a></li>
-                        <li><a href="c3.html">c3 charts</a></li>
-                        <li><a href="graph_peity.html">Peity Charts</a></li>
-                        <li><a href="graph_sparkline.html">Sparkline Charts</a></li>
+                        <li><a href="graph_flot.html">Flot 图表</a></li>
+                        <li><a href="graph_morris.html">Morris.js 图表</a></li>
+                        <li><a href="graph_rickshaw.html">Rickshaw 图表</a></li>
+                        <li><a href="graph_chartjs.html">Chart.js 图表</a></li>
+                        <li><a href="graph_chartist.html">Chartist 图表</a></li>
+                        <li><a href="c3.html">c3 图表</a></li>
+                        <li><a href="graph_peity.html">Peity 图表</a></li>
+                        <li><a href="graph_sparkline.html">Sparkline 图表</a></li>
                     </ul>
                 </li>
                 <li>
@@ -86,19 +86,19 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="metrics.html"><i class="fa fa-pie-chart"></i> <span class="nav-label">Metrics</span>  </a>
+                    <a href="metrics.html"><i class="fa fa-pie-chart"></i> <span class="nav-label">指标</span>  </a>
                 </li>
                 <li>
-                    <a href="widgets.html"><i class="fa fa-flask"></i> <span class="nav-label">Widgets</span></a>
+                    <a href="widgets.html"><i class="fa fa-flask"></i> <span class="nav-label">工具</span></a>
                 </li>
                 <li>
-                    <a href="index.html#"><i class="fa fa-edit"></i> <span class="nav-label">Forms</span><span class="fa arrow"></span></a>
+                    <a href="index.html#"><i class="fa fa-edit"></i> <span class="nav-label">表单样式</span><span class="fa arrow"></span></a>
                     <ul class="nav nav-second-level collapse">
-                        <li><a href="form_basic.html">Basic form</a></li>
-                        <li><a href="form_advanced.html">Advanced Plugins</a></li>
-                        <li><a href="form_wizard.html">Wizard</a></li>
-                        <li><a href="form_file_upload.html">File Upload</a></li>
-                        <li><a href="form_editors.html">Text Editor</a></li>
+                        <li><a href="form_basic.html">基础表单样式</a></li>
+                        <li><a href="form_advanced.html">先进的表单元素</a></li>
+                        <li><a href="form_wizard.html">带导航的表单</a></li>
+                        <li><a href="form_file_upload.html">文件上传</a></li>
+                        <li><a href="form_editors.html">文本编辑器</a></li>
                         <li><a href="form_markdown.html">Markdown</a></li>
                     </ul>
                 </li>
@@ -127,43 +127,43 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="index.html#"><i class="fa fa-files-o"></i> <span class="nav-label">Other Pages</span><span class="fa arrow"></span></a>
+                    <a href="index.html#"><i class="fa fa-files-o"></i> <span class="nav-label">其他类型页面</span><span class="fa arrow"></span></a>
                     <ul class="nav nav-second-level collapse">
-                        <li><a href="search_results.html">Search results</a></li>
-                        <li><a href="lockscreen.html">Lockscreen</a></li>
-                        <li><a href="invoice.html">Invoice</a></li>
-                        <li><a href="login.html">Login</a></li>
-                        <li><a href="login_two_columns.html">Login v.2</a></li>
-                        <li><a href="forgot_password.html">Forget password</a></li>
-                        <li><a href="register.html">Register</a></li>
-                        <li><a href="404.html">404 Page</a></li>
-                        <li><a href="500.html">500 Page</a></li>
-                        <li><a href="empty_page.html">Empty page</a></li>
+                        <li><a href="search_results.html">查询带返回页面</a></li>
+                        <li><a href="lockscreen.html">锁屏页面</a></li>
+                        <li><a href="invoice.html">账单页面</a></li>
+                        <li><a href="login.html">登录页面 v.1</a></li>
+                        <li><a href="login_two_columns.html">登录页面 v.2</a></li>
+                        <li><a href="forgot_password.html">找回密码页面</a></li>
+                        <li><a href="register.html">注册页面</a></li>
+                        <li><a href="404.html">404 页面</a></li>
+                        <li><a href="500.html">500 页面</a></li>
+                        <li><a href="empty_page.html">空页面</a></li>
                     </ul>
                 </li>
                 <li>
                     <a href="index.html#"><i class="fa fa-globe"></i> <span class="nav-label">Miscellaneous</span><span class="label label-info pull-right">NEW</span></a>
                     <ul class="nav nav-second-level collapse">
-                        <li><a href="toastr_notifications.html">Notification</a></li>
-                        <li><a href="nestable_list.html">Nestable list</a></li>
-                        <li><a href="agile_board.html">Agile board</a></li>
-                        <li><a href="timeline_2.html">Timeline v.2</a></li>
-                        <li><a href="diff.html">Diff</a></li>
-                        <li><a href="i18support.html">i18 support</a></li>
-                        <li><a href="sweetalert.html">Sweet alert</a></li>
+                        <li><a href="toastr_notifications.html">消息提醒</a></li>
+                        <li><a href="nestable_list.html">嵌套类型列表</a></li>
+                        <li><a href="agile_board.html">便捷面板</a></li>
+                        <li><a href="timeline_2.html">时间轴 v.2</a></li>
+                        <li><a href="diff.html">文本差异</a></li>
+                        <li><a href="i18support.html">i18 支持</a></li>
+                        <li><a href="sweetalert.html">漂亮得Alert</a></li>
                         <li><a href="idle_timer.html">Idle timer</a></li>
                         <li><a href="truncate.html">Truncate</a></li>
-                        <li><a href="spinners.html">Spinners</a></li>
+                        <li><a href="spinners.html">等待效果</a></li>
                         <li><a href="tinycon.html">Live favicon</a></li>
                         <li><a href="google_maps.html">Google maps</a></li>
-                        <li><a href="code_editor.html">Code editor</a></li>
-                        <li><a href="modal_window.html">Modal window</a></li>
-                        <li><a href="clipboard.html">Clipboard</a></li>
-                        <li><a href="forum_main.html">Forum view</a></li>
-                        <li><a href="validation.html">Validation</a></li>
-                        <li><a href="tree_view.html">Tree view</a></li>
-                        <li><a href="loading_buttons.html">Loading buttons</a></li>
-                        <li><a href="chat_view.html">Chat view</a></li>
+                        <li><a href="code_editor.html">代码编辑器</a></li>
+                        <li><a href="modal_window.html">模式窗口</a></li>
+                        <li><a href="clipboard.html">复制剪切</a></li>
+                        <li><a href="forum_main.html">论坛视图</a></li>
+                        <li><a href="validation.html">验证信息</a></li>
+                        <li><a href="tree_view.html">树视图</a></li>
+                        <li><a href="loading_buttons.html">带加载效果的按钮</a></li>
+                        <li><a href="chat_view.html">交流视图</a></li>
                         <li><a href="masonry.html">Masonry</a></li>
                         <li><a href="tour.html">Tour</a></li>
                     </ul>
